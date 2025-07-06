@@ -1,4 +1,4 @@
-# Hi, I'm Maulana Ridhwan 👋
+# Hi, I'm Maulana 👋
 
 Welcome to my Github profile!
 
