@@ -2,7 +2,7 @@
 
 Welcome to my Github profile!
 
-- 🌱 AI and Data Science enthusiast
+- 🤖 AI enthusiast
 - 📫 Email: maulanaridhwanriziq@gmail.com
 
 ## 📊 Statistik GitHub
