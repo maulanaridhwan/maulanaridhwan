@@ -1,4 +1,4 @@
-# Hi, I'm Maulana 👋
+# Hi, I'm Lana 👋
 
 Welcome to my Github profile!
 
