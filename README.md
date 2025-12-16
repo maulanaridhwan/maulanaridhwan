@@ -7,4 +7,4 @@ Welcome to my Github profile!
 
 ## 📊 GitHub Statistic
 [![Lana's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulanaridhwan)](https://github.com/maulanaridhwan/github-readme-stats)
-![Lana's GitHub stats]((https://github-readme-stats.vercel.app/api?username=maulanaridhwan&show_icons=true))
+![Lana's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulanaridhwan&show_icons=true&theme=radical)
